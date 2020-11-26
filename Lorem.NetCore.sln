@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lorem.NetCore", "Lorem.NetCore\Lorem.NetCore.csproj", "{29DEE928-0CF7-4F55-904B-8413F04675D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lorem.NetCore.Sample", "Lorem.NetCore.Sample\Lorem.NetCore.Sample.csproj", "{67B10607-C406-4C6B-B0A9-909B7347FE67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29DEE928-0CF7-4F55-904B-8413F04675D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DEE928-0CF7-4F55-904B-8413F04675D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DEE928-0CF7-4F55-904B-8413F04675D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DEE928-0CF7-4F55-904B-8413F04675D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B10607-C406-4C6B-B0A9-909B7347FE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B10607-C406-4C6B-B0A9-909B7347FE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B10607-C406-4C6B-B0A9-909B7347FE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B10607-C406-4C6B-B0A9-909B7347FE67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79A462FA-8A78-456C-BDFB-71FCAEC4C35A}
+	EndGlobalSection
+EndGlobal
